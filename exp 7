@@ -23,7 +23,7 @@ editor will open->
   tasks:
     - name: Print Hello
       debug:
-        msg: "Hello from Ansible on Windows via WSL!“
+        msg: "Hello from Ansible on Windows via WSL!"
 
 ctrl o enter ctrl x
 
